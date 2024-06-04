@@ -64,5 +64,4 @@ The Job Portal is a web application designed to connect companies and job seeker
 
 
 ## Demo Video
-
-
+https://drive.google.com/drive/folders/1W2zk7hoRfhBi1cIQUK2rHNW1JhSn7DPq
